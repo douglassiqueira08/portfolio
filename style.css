@@ -148,7 +148,7 @@ header{
 }
 .banner button:hover{
     color: black;
-    opacity: 0.9;
+    transition: 2s;
     
     
 }
